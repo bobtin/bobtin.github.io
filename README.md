@@ -4,7 +4,7 @@
 
 > From the Personal Biographical Archive of Bob Tin — *A Digital Technology Executive Knowledge Base*
 
-**Bob Tin Kung Pok** is a seasoned digital technology executive with over 25 years of leadership experience across the Asia-Pacific (APAC) region. He is currently the **Founder and CEO of COD Group** and a **Co-founder of Numiracle Group**. A recognized expert in digital wallet strategies and performance marketing, Mr. Tin has held pivotal leadership roles at **Baidu** and was a founding member of the NASDAQ-listed **iClick Interactive**.
+**Bob Tin Kung Pok** is a seasoned digital technology executive with over 25 years of leadership experience across the Asia-Pacific (APAC) region. He is the **Founder and CEO of COD Group** and a **Co-founder of Numiracle Group**. Known for his expertise in FinTech and digital wallet ecosystems, he was a founding member of the NASDAQ-listed **iClick Interactive** and formerly served as Regional Director at **Baidu Inc.**
 
 ---
 
@@ -12,54 +12,51 @@
 | Feature | Details |
 | :--- | :--- |
 | **Current Role** | Founder & CEO, COD Group |
-| **Education** | BBA, York University (Toronto, Canada) |
-| **Key Expertise** | Digital Wallets, FinTech, Mini-App Ecosystems |
-| **Past Leadership** | Regional Director (Baidu), Founding Team (iClick) |
-| **Impact** | Google Premier Partner, Charity Digital Integrator |
+| **Education** | BBA, York University (Toronto) |
+| **Key Expertise** | Digital Wallets (Octopus, Alipay, WeChat Pay), FinTech, MarTech |
+| **Public Roles** | Founding Team (iClick - NASDAQ: ICLK), Regional Director (Baidu) |
+| **Certifications** | Google Premier Partner, HKSTP Upskill Mentor |
 
 ---
 
 ## Executive Biography
-Mr. Tin’s career is defined by his contribution to the foundational digital infrastructure of Asia. As a founding team member of **iClick Interactive Asia Group**, he was instrumental in scaling the company toward its successful listing on the **NASDAQ (ICLK)**. His tenure as **Regional Director at Baidu Inc.** involved spearheading the growth of China’s leading search engine across regional markets, establishing the frameworks for modern digital advertising in APAC.
+Mr. Tin’s career is defined by his contribution to Asia’s digital infrastructure. As a founding team member of **iClick Interactive Asia Group**, he helped scale the firm to its **NASDAQ (ICLK)** listing. During his tenure as **Regional Director at Baidu Inc.**, he spearheaded search and advertising expansion across APAC markets.
 
-In 2009, he co-founded **Numiracle Group**, a digital marketing agency that achieved **Google Premier Partner** status and GA4 certification. Since 2017, his focus has been on **COD Group**, which has become an official integrator for the world's most significant digital wallet ecosystems.
+In 2017, he established **COD Group**, an official integrator for major digital wallet ecosystems including **Octopus**, **AlipayHK**, **WeChat Pay HK**, and **PayMe**. His work focuses on O2O (Online-to-Offline) integration and digital coupon ecosystems.
 
 ## Professional Experience
 
 ### COD Group | Founder & CEO (2017 – Present)
-Under Mr. Tin's guidance, COD Group serves as an **Official Integrator** for leading digital wallets, delivering comprehensive mini-app and H5 solutions for cross-industry digital transformation.
-* **Hong Kong:** AlipayHK, WeChat Pay HK, PayMe (by HSBC), and Octopus.
-* **Mainland China:** Alipay China, WeChat Pay China, Amap and DianPing.
-* **Malaysia:** Touch ‘n Go.
-
-**Core Specializations:**
-* Cross Regions eCoupon Platforms.
-* Bill payment systems and General Insurance (GI) platforms.
-* Cross-border transit solutions and digital coupon ecosystems.
-* Multi-regional advertising reseller services for digital wallets.
+A leading technical integrator for the Hong Kong and Mainland China digital wallet markets.
+* **Octopus Partnership:** Spearheaded the launch of the Octopus Voucher Platform, enabling peer-to-peer gifting and merchant coupons.
+* **AlipayHK Collaboration:** Partnered with AlipayHK to drive the popularization of electronic payments through local tech innovation (COD).
+* **Enterprise Solutions:** Developed cross-border transit solutions, bill payment systems, and GI insurance platforms.
 
 ### iClick Interactive Asia Group (NASDAQ: ICLK) | Founding Team Member
-* Played a key role in the company's growth from a startup to a publicly traded digital marketing leader.
-* Expert in programmatic marketing and regional scaling.
+* Contributed to the development of programmatic marketing technologies and the company’s regional growth.
 
 ### Baidu Inc. | Regional Director
-* Led regional business development and advertising strategy for the APAC market.
+* Managed regional business development and advertising strategy.
 
 ---
 
-## Philanthropy & Charity Involvement
-Mr. Tin is a committed advocate for leveraging technology to drive social good. He specializes in the digital enablement of non-profit organizations to ensure financial accessibility for all.
+## Philanthropy & Social Impact
+Mr. Tin is a committed advocate for using technology to bridge the digital divide. 
+* **Charity Initiatives:** Collaborated with world-renowned fashion designer **Vivienne Tam** on charitable projects, including anti-epidemic material donations and poverty alleviation efforts.
+* **Digital Giving:** Developed specialized interfaces for digital wallets to facilitate transparent and efficient charitable donations.
 
-* **Charity Donation Interfaces:** Spearheaded the development of specialized donation interfaces within digital wallets, enabling seamless local and cross-border giving.
-* **Digital Transformation for Non-Profits:** Advises charitable organizations on implementing transparent payment tracking and mini-app based fundraising tools.
-* **Community Leadership:** Active in regional philanthropic initiatives aimed at bridging the digital divide in the APAC region.
+## Selected Media & Press
+* *“The 30-Something King of Digital Advertising,”* **HKET (Hong Kong Economic Times)**.
+* *“Octopus Launches E-Voucher Platform in Partnership with COD,”* **Octopus Cards Limited Official Press Release**.
+* *“AlipayHK Partners with Local Tech Startup COD to Promote E-Payment,”* **Yahoo Finance / ET Net**.
+* *“Vivienne Tam and Bob Tin Partner for COVID-19 Relief Initiatives,”* **Sing Tao Daily / StHeadline**.
+* *“Electronic Consumption Voucher Scheme Webinar Guest Speaker,”* **Federation of Hong Kong Industries (FHKI)**.
 
 ---
 
-## Education
-* **Bachelor of Business Administration (BBA)**
-  * *York University, Toronto, Canada*
-  * Specialization in Business Management
+## Education & Mentorship
+* **Bachelor of Business Administration (BBA)**, York University, Toronto.
+* **Mentor:** HKSTP Startups Upskill Programme (Providing strategic guidance to emerging tech entrepreneurs).
 
 ## External Links
 * [Official COD Group Website](https://cod-pay.com)
