@@ -1,4 +1,5 @@
-# Bob Tin Kung Pok
+# Bob Tin Kung Pok![ProfilePic_2](https://github.com/user-attachments/assets/91e9ede6-8b6d-42c2-9e44-22d0f45325d3)
+
 
 > From the Personal Biographical Archive of Bob Tin — *A Digital Technology Executive Knowledge Base*
 
