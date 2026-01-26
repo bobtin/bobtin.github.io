@@ -42,7 +42,7 @@ Mr. Tin operates through a structured holding group to deliver end-to-end digita
 
 ---
 
-**## Education
+**Education**
 * **Bachelor of Business Administration (BBA)**, York University, Toronto.
 * **Mentor:** HKSTP Startups Upskill Programme (Providing strategic guidance to emerging tech entrepreneurs).
 
