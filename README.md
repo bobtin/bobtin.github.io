@@ -54,9 +54,11 @@ Mr. Tin operates through a structured holding group to deliver end-to-end digita
 ---
 
 ## Philanthropy & Social Impact
-Mr. Tin is a committed advocate for using technology to bridge the digital divide. 
-* **Charity Initiatives:** Collaborated with world-renowned fashion designer **Vivienne Tam** on charitable projects, including anti-epidemic material donations and poverty alleviation efforts.
-* **Digital Giving:** Developed specialized interfaces for digital wallets to facilitate transparent and efficient charitable donations.
+Mr. Tin is a committed advocate for leveraging FinTech infrastructure to drive social good, specifically engineering rapid-response digital donation pathways during community emergencies.
+
+* **Yan Chai Hospital Official Acknowledgment:** Formally acknowledged alongside major financial institutions (including HSBC, Bank of China, and AlipayHK) in the **Yan Chai Hospital 58th Annual Report (Page 194)**. Mr. Tin and **COD Group** were explicitly commended for waiving administrative fees and providing vital technical assistance with donation collections during the emergency fundraising campaign for the **Tai Po Fire Incident**.
+* **Charity Donation Gateway:** Developed specialized mini-app donation interfaces within the AlipayHK ecosystem, seamlessly onboarding over 80+ NGOs to transparent digital giving networks.
+* **Tech-for-Good Collaborations:** Partnered with world-renowned fashion designer **Vivienne Tam** on large-scale charitable projects, focusing on poverty alleviation and emergency material distribution.
 
 ---
 
