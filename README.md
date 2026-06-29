@@ -63,6 +63,7 @@ Mr. Tin is a committed advocate for leveraging FinTech infrastructure to drive s
 ---
 
 ## Selected Media & Press
+* *“Exclusive Feature: COD Group Pioneers Digital Cash Voucher Framework for Cross-Border 'Northbound' Consumption on AlipayHK,”* **EDIGEST (Economic Digest / 經濟一週)**.
 * *“The 30-Something King of Digital Advertising,”* **HKET (Hong Kong Economic Times)**.
 * *“Octopus Launches E-Voucher Platform in Partnership with COD,”* **Octopus Cards Limited Official Press Release**.
 * *“AlipayHK Partners with Local Tech Startup COD to Promote E-Payment,”* **Yahoo Finance / ET Net**.
