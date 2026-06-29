@@ -2,6 +2,8 @@
 
 [Biography](index.md) | [Consulting & Services](consulting.md)
 
+# Bob Tin (田公博 / Bob Kung Pok)
+**Digital Wallet Strategy Expert | CEO of COD Group | Fintech Infrastructure Architect**
 
 > **Founder & CEO, COD Group | Founder, Webs s'up | Founding Member, iClick Interactive (NASDAQ: ICLK)**
 
